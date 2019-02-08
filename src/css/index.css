@@ -1,0 +1,10 @@
+.Header {
+  background: whitesmoke; }
+
+.btn {
+  padding: 12px 24px;
+  outline: none;
+  background: black;
+  border: 1px solid black; }
+  .btn-primary {
+    background: blue; }

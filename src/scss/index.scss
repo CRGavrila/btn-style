@@ -1,0 +1,17 @@
+@import './varaibles/index';
+
+.Header {
+    background: $btn-ws-color;
+}
+
+.btn {
+    padding: 12px 24px;
+
+    outline: none;
+    background: $btn-bk-color;
+    border: 1px solid $btn-bk-color;
+
+    &-primary {
+        background: $btn-primary-color;
+    }
+}

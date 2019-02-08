@@ -1,0 +1,23 @@
+{
+  "name": "btn-style",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "node-sass": "^4.11.0"
+  },
+  "scripts": {
+    "compile": "node-sass ./src/scss/index.scss ./src/css/index.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CRGavrila/btn-style.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CRGavrila/btn-style/issues"
+  },
+  "homepage": "https://github.com/CRGavrila/btn-style#readme"
+}
